@@ -1,5 +1,30 @@
 # Projet_IA
 
+
+# Run :
+
+1st set of data =>
+python3 main.py launch1
+
+2nd set of data =>
+python3 main.py launch2
+
+# Retrain and run :
+
+1st set of data =>
+python3 main.py reload1
+
+2nd set of data =>
+python3 main.py reload2
+
+# Data sets :
+
+/data/
+
+# Already trained machine :
+
+/pickles/
+
 # Sites : 
 
 Twitter Sentiment Analysis with Machine Learning
